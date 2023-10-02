@@ -1,4 +1,4 @@
-window.addEventListener("load", async () => {
+  window.addEventListener("load", async () => {
     /*!
      * Particleground
      *
@@ -70,6 +70,5 @@ window.addEventListener("load", async () => {
       }, 500);
     });
     
-    
-    
+
     });
